@@ -9,6 +9,10 @@ The dataset consists of:
 - 3,190 labeled DNA sequences
 - Each sequence represents a fixed-length nucleotide window around potential splice junctions
 
+Splice junction dataset originally from the UCI Machine Learning Repository.
+
+https://archive.ics.uci.edu/ml/datasets/splice+junction+gene+sequences
+
 ## Feature Engineering
 
 DNA sequences were converted into numerical features using one-hot encoding of nucleotides (A, C, G, T).  
