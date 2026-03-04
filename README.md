@@ -47,3 +47,7 @@ The best performance was achieved with an **SVM classifier**, reaching approxima
 ## Purpose
 
 This project demonstrates basic bioinformatics feature encoding and supervised classification techniques applied to genomic sequence data.
+
+## Installation
+
+pip install -r requirements.txt
